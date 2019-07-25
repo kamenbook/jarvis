@@ -278,7 +278,7 @@
         <output value="Слышу слышу"/>
     </input>
 
-    <input pattern="* что нового *">
+    <input pattern="* что с тобой *">
         <output value="Да всё как всегда"/>
     </input>
 
