@@ -394,7 +394,7 @@
         </output>   
     </input>
 
-input pattern="Я здесь">
+<input pattern="Я здесь">
         <output> 
             <item value="Я всегда с Вами, сэр"/>
             <item value="Здесь это где"/>
