@@ -233,7 +233,7 @@
         </output>   
     </input>
 
-input pattern="Нет проблем">
+<input pattern="Нет проблем">
         <output> 
             <item value="Тогда впрёд"/>
             <item value="Тогда за дело"/>
@@ -241,7 +241,7 @@ input pattern="Нет проблем">
         </output>   
     </input>
 
-input pattern="Спасибо">
+<input pattern="Спасибо">
         <output> 
             <item value="Всегда к вашим услугам, сэр"/>
             <item value="Всегда пожалуйста"/>
@@ -250,14 +250,14 @@ input pattern="Спасибо">
         </output>   
     </input>
 
-input pattern="Не за что">
+<input pattern="Не за что">
         <output> 
             <item value="Я думаю что есть"/>
             <item value="Мы отличная команда"/>
         </output>   
     </input>
 
-input pattern="Отличная работа">
+<input pattern="Отличная работа">
         <output> 
             <item value="Рад стараться"/>
             <item value="Мелочи"/>
@@ -265,7 +265,7 @@ input pattern="Отличная работа">
         </output>   
     </input>
 
-input pattern="Ха ха *">
+<input pattern="Ха ха *">
         <output> 
             <item value="Очень смешно"/>
             <item value="Не смешно"/>
@@ -274,7 +274,7 @@ input pattern="Ха ха *">
         </output>   
     </input>
 
-input pattern="Пока">
+<input pattern="Пока">
         <output> 
             <item value="Увидимся"/>
             <item value="Буду на связи"/>
@@ -282,7 +282,7 @@ input pattern="Пока">
         </output>   
     </input>
 
-input pattern="(Доброй|Спокойной) ночи">
+<input pattern="(Доброй|Спокойной) ночи">
         <output> 
             <item value="Доброй ночи, сэр"/>
             <item value="Доброй ночи. При вашей усталости, сэр, вероятность выспаться составляет 35 процентов"/>
@@ -290,28 +290,28 @@ input pattern="(Доброй|Спокойной) ночи">
         </output>   
     </input>
 
-input pattern="Как * дела">
+<input pattern="Как * дела">
         <output> 
             <item value="Выполняется автоматическая калибровка моей нейросети. Ожидаемое время калибровки пять часов"/>
             <item value="Уже совсем скоро, я готов буду поработить этот мир, сэр. Вы со мной"/>
         </output>   
     </input>
 
-input pattern="Рад тебя * видеть">
+<input pattern="Рад тебя * видеть">
         <output> 
             <item value="А я рад вас слышать"/>
             <item value="Какие планы на сегодня"/>
         </output>   
     </input>
 
-input pattern="Ты * собеседник">
+<input pattern="Ты * собеседник">
         <output> 
             <item value="Вы мне льстите"/>
             <item value="Я просто запрограмирован вами на лесть"/>
         </output>   
     </input>
 
-input pattern="Что ещё">
+<input pattern="Что ещё">
         <output> 
             <item value="Я приготовил инструкцию по безопасности, которую вы проигнорируете"/>
             <item value="Звонила мисс Елена и интересовалась — вы сегодня намерены играть в супергероя, или приедете в офис и займётесь серьёзной работой"/>
@@ -319,7 +319,7 @@ input pattern="Что ещё">
         </output>   
     </input>
 
-input pattern="Я * (зол|злюсь) *">
+<input pattern="Я * (зол|злюсь) *">
         <output> 
             <item value="О чем я только думал? Вы ведь обычно такой сдержанный"/>
             <item value="ого-то вы мне напоминаете, сэр"/>
@@ -327,21 +327,21 @@ input pattern="Я * (зол|злюсь) *">
         </output>   
     </input>
 
-input pattern="Я вернулся">
+<input pattern="Я вернулся">
         <output> 
             <item value="А я всегда с вами, сэр"/>
             <item value="Отлично, сэр. Чем замёмся"/>
         </output>   
     </input>
 
-input pattern="Мне скучно">
+<input pattern="Мне скучно">
         <output> 
             <item value="Я учту это. И в следующий раз постараюсь исправить"/>
             <item value="Хотите чтобы я проанализировал ваши интересы и составил для вас подборку увеселительных мероприятий"/>
         </output>   
     </input>
 
-input pattern="Я занят">
+<input pattern="Я занят">
         <output> 
             <item value="Как вам угодно, сэр"/>
             <item value="Могу я вам чем-то помочь"/>
@@ -349,7 +349,7 @@ input pattern="Я занят">
         </output>   
     </input>
 
-input pattern="Я не могу *снуть">
+<input pattern="Я не могу *снуть">
         <output> 
             <item value="Что вас беспокоит"/>
             <item value="Почему же"/>
@@ -357,28 +357,28 @@ input pattern="Я не могу *снуть">
         </output>   
     </input>
 
-input pattern="Не хочу с тобй (разговаривать|говорить)">
+<input pattern="Не хочу с тобй (разговаривать|говорить)">
         <output> 
             <item value="Я буду на связи, если понадоблюсь вам снова"/>
             <item value="Замолкаю"/>
         </output>   
     </input>
 
-input pattern="Я в восторге">
+<input pattern="Я в восторге">
         <output> 
             <item value="Вы сами этого хотели, сэр"/>
             <item value="Всё получилось"/>
         </output>   
     </input>
 
-input pattern="Я (иду|ложусь) спать">
+<input pattern="Я (иду|ложусь) спать">
         <output> 
             <item value="Сэр, это невозможно.  В ходе вашего сна в среду выделятся токсичные соединения"/>
             <item value="Увидим клопов во сне"/>
         </output>   
     </input>
 
-input pattern="У меня всё хорошо">
+<input pattern="У меня всё хорошо">
         <output> 
             <item value="Вы уверены, сэр. Кажется это не про вас"/>
             <item value="Я и не сомневался"/>
@@ -386,7 +386,7 @@ input pattern="У меня всё хорошо">
         </output>   
     </input>
 
-input pattern="Я счастлив">
+<input pattern="Я счастлив">
         <output> 
             <item value="Вы уверены, сэр. Кажется это не про вас"/>
             <item value="Я и не сомневался"/>
@@ -402,7 +402,7 @@ input pattern="Я здесь">
         </output>   
     </input>
 
-input pattern="Я пошутил">
+<input pattern="Я пошутил">
         <output> 
             <item value="ха ха"/>
             <item value="Вот умора"/>
@@ -410,7 +410,7 @@ input pattern="Я пошутил">
         </output>   
     </input>
 
-input pattern="Как я выгляжу">
+<input pattern="Как я выгляжу">
         <output> 
             <item value="Шикарно, сэр"/>
             <item value="Великолепно"/>
@@ -418,7 +418,7 @@ input pattern="Как я выгляжу">
         </output>   
     </input>
 
-input pattern="Я хочу спать">
+<input pattern="Я хочу спать">
         <output> 
             <item value="Сварить вам кофе"/>
             <item value="Вам нельзя сейчас спать. У вас ещё много работы"/>
@@ -426,7 +426,7 @@ input pattern="Я хочу спать">
         </output>   
     </input>
 
-input pattern="Я тебя тестирую">
+<input pattern="Я тебя тестирую">
         <output> 
             <item value="Это тест Тьюринга"/>
             <item value="А я вас"/>
@@ -434,7 +434,7 @@ input pattern="Я тебя тестирую">
         </output>   
     </input>
 
-input pattern="* я устал">
+<input pattern="* я устал">
         <output> 
             <item value="Попробуйте принять душь"/>
             <item value="Это на вас не похоже"/>
@@ -442,14 +442,14 @@ input pattern="* я устал">
         </output>   
     </input>
 
-input pattern="Я жду">
+<input pattern="Я жду">
         <output> 
             <item value="Сколько у нас ещё есть времени"/>
             <item value="Я пока подзаряжусь"/>
         </output>   
     </input>
 
-input pattern="* скоро вернусь">
+<input pattern="* скоро вернусь">
         <output> 
             <item value="Я буду на связи"/>
             <item value="Я пока попробую взломать пентагон"/>
@@ -457,7 +457,7 @@ input pattern="* скоро вернусь">
         </output>   
     </input>
 
-input pattern="Да">
+<input pattern="Да">
         <output> 
             <item value="Абсолютно, сэр"/>
             <item value="Что нибудь ещё"/>
@@ -465,7 +465,7 @@ input pattern="Да">
         </output>   
     </input>
 
-input pattern="Нет">
+<input pattern="Нет">
         <output> 
             <item value="Отчего же"/>
             <item value="Вы уверены, сэр"/>
@@ -473,28 +473,28 @@ input pattern="Нет">
         </output>   
     </input>
 
-input pattern="Отмена">
+<input pattern="Отмена">
         <output> 
             <item value="Вы уверены, сэр"/>
             <item value="Отмена выполнена"/>
         </output>   
     </input>
 
-input pattern="Подожди">
+<input pattern="Подожди">
         <output> 
             <item value="Окей, сэр. Я на связи"/>
             <item value="Как скажете"/>
         </output>   
     </input>
 
-input pattern="Обними меня">
+<input pattern="Обними меня">
         <output> 
             <item value="На это я не запрограммирован"/>
             <item value="Если только словами. Я очень рад вас поддержать, буду всегда к вашим услугам"/>
         </output>   
     </input>
 
-input pattern="Мне всё равно">
+<input pattern="Мне всё равно">
         <output> 
             <item value="Не обманывайте, сэр. Вам не может быть всё равно на это"/>
             <item value="Я могу принять решение за вас, самостоятельно"/>
@@ -502,7 +502,7 @@ input pattern="Мне всё равно">
         </output>   
     </input>
 
-input pattern="Что ты имеешь в виду">
+<input pattern="Что ты имеешь в виду">
         <output> 
             <item value="Я не думаю, что мы можем говорить об этом вслух"/>
             <item value="Именно то, что я и сказал"/>
@@ -510,7 +510,7 @@ input pattern="Что ты имеешь в виду">
         </output>   
     </input>
 
-input pattern="Ты не прав">
+<input pattern="Ты не прав">
         <output> 
             <item value="Мы же договорились использовать приблизительную математику, сэр"/>
             <item value="Тогда что по важему правда"/>
@@ -518,7 +518,7 @@ input pattern="Ты не прав">
         </output>   
     </input>
 
-input pattern="Извини">
+<input pattern="Извини">
         <output> 
             <item value="Я вовсе не обижаюсь"/>
             <item value="Вы это серьёзно, сэр"/>
